@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/da/17/88/queen-tamara-arched-bridge.jpg?w=700&h=-1&s=1);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 20px;
+}
+.title p {
+  color: green;
+  font-size: 25px;
+  font-weight: bold;
+}
+.types {
+  color: white;
+}
+.types a {
+  width: 50px;
+}
+.types li {
+  width: 60px;
+}
+.title {
+  width: 350px;
+}
+.title span {
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.title2 {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+.information {
+  color: white;
+  width: 1000px;
+  font-size: 13px;
+  padding-left: 190px;
+}
+.title3 {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.information2 {
+  color: white;
+  width: 1000px;
+  font-size: 13px;
+  padding-left: 190px;
+}
